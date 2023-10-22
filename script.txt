@@ -20,4 +20,13 @@ git remote – Creates a link between your local repository and online repositor
 git push – Moves everything from the local repository onto the online repo.
 
 7. Branch
-git branch
+git branch – used to create “branches” which are used to implement features onto the master.
+
+8.Checkout
+git checkout - allows you to navigate between branches made by git branch.
+
+9.Clone
+git clone  – makes a copy of a repository to be able to use it locally.
+ 
+10.Rm
+git rm - 
