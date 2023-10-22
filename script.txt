@@ -29,4 +29,4 @@ git checkout - allows you to navigate between branches made by git branch.
 git clone  – makes a copy of a repository to be able to use it locally.
  
 10.Rm
-git rm - 
+git rm - Removes a selected file.
